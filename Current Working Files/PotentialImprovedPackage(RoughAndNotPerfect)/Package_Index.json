@@ -1,0 +1,467 @@
+[
+  {
+    "path": "01_Portfolio/STRIA_Master_Case_Study.pdf",
+    "bytes": 24169622,
+    "sha256": "fac2ecf253d1c7be021e80718011474ed80db5b49c19023405402fdfe5700c04"
+  },
+  {
+    "path": "02_Visuals/Fonts/DejaVuSans-Bold.ttf",
+    "bytes": 708920,
+    "sha256": "5c1247acef7f2b8522a31742c76d6adcb5569bacc0be7ceaa4dc39dd252ce895"
+  },
+  {
+    "path": "02_Visuals/Fonts/DejaVuSans.ttf",
+    "bytes": 759720,
+    "sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280"
+  },
+  {
+    "path": "02_Visuals/Fonts/DejaVuSansMono.ttf",
+    "bytes": 343140,
+    "sha256": "c805f9436dbc268644c1d9584f01a601a653e028e08fd74b9b949f6cf8304d88"
+  },
+  {
+    "path": "02_Visuals/Fonts/LICENSE.txt",
+    "bytes": 3859,
+    "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9"
+  },
+  {
+    "path": "02_Visuals/Growth_Sequence.gif",
+    "bytes": 634891,
+    "sha256": "5fda44c310e7da66422369676cb9f73739db27d06f49ee62df5790af97ccfa13"
+  },
+  {
+    "path": "02_Visuals/Showcase_Courtyard.png",
+    "bytes": 3047280,
+    "sha256": "01f53a34f532ee0d99dddb447b275528ff68aee70f25d50fb35fb0eab26db5dd"
+  },
+  {
+    "path": "02_Visuals/Showcase_Interior.png",
+    "bytes": 2969798,
+    "sha256": "e3fbc1ad05e5706f5522487916d6ad7afeac71250212c6dcaa92977ea783182d"
+  },
+  {
+    "path": "02_Visuals/comparison.png",
+    "bytes": 558704,
+    "sha256": "a307557ef4ed719da326c034cadea04e31209c57c1cc25e0f989701c54c032af"
+  },
+  {
+    "path": "02_Visuals/comparison.svg",
+    "bytes": 147235,
+    "sha256": "8d6f011745338744a1083916d948d2511d6af0239ed15a39ad4b5569bbd3368e"
+  },
+  {
+    "path": "02_Visuals/crescent_atlas.png",
+    "bytes": 715505,
+    "sha256": "6e2e690a9c2f8bb4cfbe07d26fdaad261f84586840bf70a325732c0e2d13a7c1"
+  },
+  {
+    "path": "02_Visuals/crescent_atlas.svg",
+    "bytes": 347167,
+    "sha256": "5f2a2cb3391bed677d7796e626eaaa832f57461a133592d1b949a7c066eea355"
+  },
+  {
+    "path": "02_Visuals/crescent_geometry.png",
+    "bytes": 668740,
+    "sha256": "2dce9fd0cdd6c69763a83ec54142aeaae04e853a63ddc330213a16f17ca6f331"
+  },
+  {
+    "path": "02_Visuals/crescent_render.png",
+    "bytes": 4050020,
+    "sha256": "8f7e811bf91013d21fdc6373ab98df3ebd80e64197277f26501d62be5cf92be8"
+  },
+  {
+    "path": "02_Visuals/detail.png",
+    "bytes": 3008507,
+    "sha256": "212d5dcfe822e901297c415addaa6398cb1261aec86875851ae5816bd36829d1"
+  },
+  {
+    "path": "02_Visuals/elevation.png",
+    "bytes": 254899,
+    "sha256": "b99b194f235f35c383a16576635f223c90b470bc67b45ac325125a78da1fe91a"
+  },
+  {
+    "path": "02_Visuals/elevation.svg",
+    "bytes": 57385,
+    "sha256": "be5c5d4539ec9cd91e96ee56250ed77b33aa68d9061df2454718a501255f36ad"
+  },
+  {
+    "path": "02_Visuals/fields.png",
+    "bytes": 602659,
+    "sha256": "4f9d5331632c2a8784c4d7d4f63572bcdeeef74b18513be9d5a331c10210cf74"
+  },
+  {
+    "path": "02_Visuals/fields.svg",
+    "bytes": 311182,
+    "sha256": "82d37433d7fed49210452722eb092285b51218df564396f7077ca5c526c47709"
+  },
+  {
+    "path": "02_Visuals/growth_sequence.png",
+    "bytes": 717210,
+    "sha256": "605a89fcae860713af9b1c4be00df02934ff996be958bf0976013ffc20813321"
+  },
+  {
+    "path": "02_Visuals/growth_sequence.svg",
+    "bytes": 262509,
+    "sha256": "5fea7188ebc43fe6246555c8319b73f9d8693f389978ff4a4aa42d9d3fa60ac0"
+  },
+  {
+    "path": "02_Visuals/hero.png",
+    "bytes": 4739875,
+    "sha256": "b00336378ec94419e1d2e3ff187a5df70780e98c037c618f1315e0426d9a54ba"
+  },
+  {
+    "path": "02_Visuals/original.png",
+    "bytes": 3521704,
+    "sha256": "a6cf131e1a99024ec314fc378699ad994050f1f617b037eee0f9418467bacd1f"
+  },
+  {
+    "path": "02_Visuals/studio.png",
+    "bytes": 3992433,
+    "sha256": "57e278a7fd485c32a7a23be24762fbf7e74502ee9268ecee855f9474c6963cdc"
+  },
+  {
+    "path": "03_Technical/Code/analyze_export.py",
+    "bytes": 7658,
+    "sha256": "a539889d4ace4cbf84df7f7221687ec7fa72c883c546a7138d15ca19f4dfa2d4"
+  },
+  {
+    "path": "03_Technical/Code/build_pdf.py",
+    "bytes": 20251,
+    "sha256": "a0a22ffa3c389015273a54e7de0dfdf2dad2a238a6e1e4398a30ac1107ab79b0"
+  },
+  {
+    "path": "03_Technical/Code/figures.py",
+    "bytes": 4322,
+    "sha256": "d05834ba34b2b43755d499da6aead3ca8afff5d547b23232c7b9679c82b0ab7a"
+  },
+  {
+    "path": "03_Technical/Code/growth.py",
+    "bytes": 5052,
+    "sha256": "95fae1677d1396a0b2430f3d4f5b21af64a9f4886629043ae5da57c2c74cb28a"
+  },
+  {
+    "path": "03_Technical/Code/package_project.py",
+    "bytes": 2146,
+    "sha256": "df501d99f4c6b191c07bf1c498b2206449929f7e047cbaf0a76f2e6ec5cafe45"
+  },
+  {
+    "path": "03_Technical/Code/render.py",
+    "bytes": 3795,
+    "sha256": "bcf2414a1d15db60a1d072a6d7aabee4a9593b0ed22cbe5dfc642d66a7a15509"
+  },
+  {
+    "path": "03_Technical/Code/render_crescent.py",
+    "bytes": 1179,
+    "sha256": "3de3ff746ff047eab34a743cdc22dfe72bb023598a4c339fe93c1990c0beb0fe"
+  },
+  {
+    "path": "03_Technical/Code/repair_definition.py",
+    "bytes": 3260,
+    "sha256": "184d0935b454785c4a9fd29c5c3e7673542db6e4729d861e4eca3f3328611236"
+  },
+  {
+    "path": "03_Technical/Code/requirements.txt",
+    "bytes": 140,
+    "sha256": "ca0d2004f6d1e6ed1431992a73597487c078d8a47674231a9dc4a2d9f7602abf"
+  },
+  {
+    "path": "03_Technical/Code/showcase.py",
+    "bytes": 5525,
+    "sha256": "808862947cf299fa55de4ae6146e6bf813f7659983a8bf77d31284f0c7777127"
+  },
+  {
+    "path": "03_Technical/Code/tests.py",
+    "bytes": 1816,
+    "sha256": "cffb357ea931500a7e9bf8180c6a8bdab31f0c754c45b5735dd73963179eeb32"
+  },
+  {
+    "path": "03_Technical/Code/validate.py",
+    "bytes": 2011,
+    "sha256": "7a128bbfe9b900dffbbe96d3e0b4b62773691f896d073cbe20091dd685f3d81a"
+  },
+  {
+    "path": "03_Technical/Data/Original_Definition_Decoded.json",
+    "bytes": 842716,
+    "sha256": "a586365ce1e486fdfa1eddebf4cf8c0b628c2577b6dc6811c574f183cbdbd26b"
+  },
+  {
+    "path": "03_Technical/Data/crescent.npz",
+    "bytes": 386543,
+    "sha256": "9b6dee7b5e1fe5f5b3f8bc616e6d8290dfb3e2bc6a825fc145183575d28c978f"
+  },
+  {
+    "path": "03_Technical/Data/delivery_checks.json",
+    "bytes": 1099,
+    "sha256": "71a391e330c033e5e5dc5f734776c459aec73d41bd12c7ec35fa2dfe0ba3184c"
+  },
+  {
+    "path": "03_Technical/Data/focused.npz",
+    "bytes": 3093126,
+    "sha256": "1e166035db46562f06c931022b2e626ed806a7ca8cb65e6efa829b2e929a983b"
+  },
+  {
+    "path": "03_Technical/Data/focused_seed29.npz",
+    "bytes": 133552,
+    "sha256": "d3a1dc0b926e5c54f086ee10ccfe63765a9be6382e0db2850b2b646db098f974"
+  },
+  {
+    "path": "03_Technical/Data/gradient.npz",
+    "bytes": 3069931,
+    "sha256": "8d1c67e8aab0d30a36d0a4795125b6a23742add0e4f5d8ab658f1d983b3f5bdd"
+  },
+  {
+    "path": "03_Technical/Data/metrics.json",
+    "bytes": 2482,
+    "sha256": "9eab5962cabbe76a40b99a88019f5a62914092985382f5b7515cf8e6e6880a94"
+  },
+  {
+    "path": "03_Technical/Data/run_manifest.json",
+    "bytes": 866,
+    "sha256": "6147d8825307b820b8c5214d7dec6bece6d2f0cf28c67e8dde51b777d03a781a"
+  },
+  {
+    "path": "03_Technical/Data/showcase_metrics.json",
+    "bytes": 680,
+    "sha256": "cb4aff867397b1c95720cc27084d5d248e6fc3c92e6ba02182cdd260722e5055"
+  },
+  {
+    "path": "03_Technical/Data/uniform.npz",
+    "bytes": 3128055,
+    "sha256": "7e26657e7fc6975a8bd4b8ef42b498af2c983d16d5c46a9126fb58eaff115ad5"
+  },
+  {
+    "path": "03_Technical/Data/validation.json",
+    "bytes": 2162,
+    "sha256": "91812d330177e94e12c1e916fa8952fb77c09848a3fd92901e980ceae55603d6"
+  },
+  {
+    "path": "03_Technical/Documentation/Art_Direction_Prompts.json",
+    "bytes": 4111,
+    "sha256": "7cdde540547f9c54bb7a74d199af67ba44d659167ca630bc1344c54cc7f9d4c7"
+  },
+  {
+    "path": "03_Technical/Documentation/Claim_Register.md",
+    "bytes": 3396,
+    "sha256": "ec91bc7d7cfcc9ed90b5df2be07b8702dc3b835de7a1c4371a00e39369bf606a"
+  },
+  {
+    "path": "03_Technical/Documentation/Methodology.md",
+    "bytes": 8322,
+    "sha256": "2a38c211019afe34801c7767fa1856666563b33b2cd4113135daf79ff81e1c74"
+  },
+  {
+    "path": "03_Technical/Documentation/Quality_Review.md",
+    "bytes": 2649,
+    "sha256": "df3e5c1a8b7547875ac1bf6cd3c6c219868c5eb3d9b4446611952dfefc249f6e"
+  },
+  {
+    "path": "03_Technical/Documentation/Visual_Revision.md",
+    "bytes": 3343,
+    "sha256": "e62a07e29d81871822492c44d61ed237440ebc62cff59249a8bf59f59d210fe0"
+  },
+  {
+    "path": "03_Technical/Models/STRIA_Baseline_Output_Repair.gh",
+    "bytes": 45080,
+    "sha256": "f3c38196d05adbb193bc6732bb9adc9805ae5cac61762ed1d68e68deb393a7b0"
+  },
+  {
+    "path": "03_Technical/Models/STRIA_Crescent.3dm",
+    "bytes": 8271348,
+    "sha256": "477bfac19341ca76902472a3fd098e3da0d5814874dcac951f4b2c4cf81cf404"
+  },
+  {
+    "path": "03_Technical/Models/STRIA_focused.3dm",
+    "bytes": 2303829,
+    "sha256": "31664f733585ab5336cefc4a05de0038a1358d657b39e47f0f9c9d6273c49fb9"
+  },
+  {
+    "path": "03_Technical/Models/STRIA_gradient.3dm",
+    "bytes": 2308859,
+    "sha256": "87f08615a0cbaa557ad79a748555d4ca83442818259d8f02076221e122fa5de4"
+  },
+  {
+    "path": "03_Technical/Models/STRIA_uniform.3dm",
+    "bytes": 2309183,
+    "sha256": "4c5c1e5bb02523bb84eda25e86e982b3c9dbba00a84bd24bb942d3f9e36aebb9"
+  },
+  {
+    "path": "03_Technical/Models/crescent_frame.obj",
+    "bytes": 599450,
+    "sha256": "175b318073df00387fff5cfefa16b8682977c82f4a661ccf91110e8fac4642dd"
+  },
+  {
+    "path": "03_Technical/Models/crescent_frame.ply",
+    "bytes": 328538,
+    "sha256": "5069c1c11ce22bfc92f226f7b393a0bb03c4734acf32947f05fe263460cd79e9"
+  },
+  {
+    "path": "03_Technical/Models/crescent_strand_0.obj",
+    "bytes": 3142019,
+    "sha256": "36eea7d8d2430db248c5c1a7740035d5239d20bb3b4039d489d3fd0819462146"
+  },
+  {
+    "path": "03_Technical/Models/crescent_strand_0.ply",
+    "bytes": 1596219,
+    "sha256": "7d813a4dfd616042d03abf2f29733ab318acf52fe4f3b70402ac70ca29d4b5b7"
+  },
+  {
+    "path": "03_Technical/Models/crescent_strand_1.obj",
+    "bytes": 3112068,
+    "sha256": "a8ece903d24e4bf93b7eb2ee19ef8541c326e867de07d7fa3f72de43fd056ec6"
+  },
+  {
+    "path": "03_Technical/Models/crescent_strand_1.ply",
+    "bytes": 1596219,
+    "sha256": "5a56080d638c1bf9dbabc19fc054d6b3837c3159ace08443ce232c95b56a6624"
+  },
+  {
+    "path": "03_Technical/Models/crescent_strand_2.obj",
+    "bytes": 3085592,
+    "sha256": "e210da12c5f6e817768114d293578db02f0f91e50bf21f2a858c9d4f6846a9ad"
+  },
+  {
+    "path": "03_Technical/Models/crescent_strand_2.ply",
+    "bytes": 1596219,
+    "sha256": "ab5a9dc92a845401382e77ca37e1511795734040df713545611b592a23250c39"
+  },
+  {
+    "path": "03_Technical/Models/crescent_strand_3.obj",
+    "bytes": 3124666,
+    "sha256": "c42e708edec987bf23dbce1da0e7723ae7b0cf8b1ef69db3d6e14e66118012e7"
+  },
+  {
+    "path": "03_Technical/Models/crescent_strand_3.ply",
+    "bytes": 1596219,
+    "sha256": "978a2dff0d8b518dccc6ec44c7973be2125d95eceda1f746fd11e0ce98b6e391"
+  },
+  {
+    "path": "03_Technical/Models/focused_strand.obj",
+    "bytes": 3106837,
+    "sha256": "0322016e3f6c27f69f3f102836479411f916813f4abb949ad6daa5b634ecb336"
+  },
+  {
+    "path": "03_Technical/Models/focused_strand.ply",
+    "bytes": 1596219,
+    "sha256": "73477e1c662c47543a60e6d905bc30ffc6fe945018554874bdf2dcd8cf5d05bb"
+  },
+  {
+    "path": "03_Technical/Models/focused_ties.ply",
+    "bytes": 27720,
+    "sha256": "f68dbc48edd8714b7b5a6e613fee7e3c712154b3c53f57541d6e5bed6afb22c8"
+  },
+  {
+    "path": "03_Technical/Models/frame.ply",
+    "bytes": 199034,
+    "sha256": "040effb35cd07b32879eae06801894e63e9a45210c9134edc2ac88cbf1effa99"
+  },
+  {
+    "path": "03_Technical/Models/gradient_strand.obj",
+    "bytes": 3106350,
+    "sha256": "f7673e0b59a7a3ef9a6d61d6dea558bcd46e5289fbd507b7b7929a9841edf290"
+  },
+  {
+    "path": "03_Technical/Models/gradient_strand.ply",
+    "bytes": 1596219,
+    "sha256": "dddd3f4f98dfcef69c68c8f9fde9bf3967e221f83e2ca8781f0becd53759a2fb"
+  },
+  {
+    "path": "03_Technical/Models/gradient_ties.ply",
+    "bytes": 27720,
+    "sha256": "db4329d45f78581115c7f6259af628ab10d6f6ebbd01f1805aa967322c02272d"
+  },
+  {
+    "path": "03_Technical/Models/original_display_normalized.ply",
+    "bytes": 15517527,
+    "sha256": "a73a0ca0d720639f61dcde14525670fcc7aa30610cfaa321a3a704212f0a93c5"
+  },
+  {
+    "path": "03_Technical/Models/uniform_strand.obj",
+    "bytes": 3107958,
+    "sha256": "e8bb60de9001734f8a5cfb7c6ad7a482e20eb26306befcaab863d2b3a5c08e8d"
+  },
+  {
+    "path": "03_Technical/Models/uniform_strand.ply",
+    "bytes": 1596219,
+    "sha256": "07ed1c8e0fa4dd1d9b6241ad06923d7a7d996276679b094301a60835d5f0b170"
+  },
+  {
+    "path": "03_Technical/Models/uniform_ties.ply",
+    "bytes": 27720,
+    "sha256": "a47611a97b16169b208a1e2d0e2f54ea8db2e93c37cb7d1957ba58097868f666"
+  },
+  {
+    "path": "04_Web/Portfolio_Copy.md",
+    "bytes": 3174,
+    "sha256": "21609d01b10647beddc580f3fdb123150de8c2d4430b27f4ef191498182c818a"
+  },
+  {
+    "path": "04_Web/Showcase_Courtyard.jpg",
+    "bytes": 468070,
+    "sha256": "dcb8805059d78d2fb22460c9a569e827714d6d2f766320a21a5e50289277a3fd"
+  },
+  {
+    "path": "04_Web/Showcase_Interior.jpg",
+    "bytes": 464491,
+    "sha256": "c201de964e2ff6a9256d32efe5620763c0019b00aae0d7d7fa5f574bfb66deba"
+  },
+  {
+    "path": "04_Web/crescent_render.jpg",
+    "bytes": 326358,
+    "sha256": "8799b487686db0fa61efa4b963004c4df05bdb7a68d204c2525a3744caa0e1f0"
+  },
+  {
+    "path": "04_Web/detail.jpg",
+    "bytes": 260706,
+    "sha256": "9fbfd5ed916ed35df53387978081cd96b8e7a6ef70cfda3db5af2acc3ca25c6e"
+  },
+  {
+    "path": "04_Web/hero.jpg",
+    "bytes": 255658,
+    "sha256": "b35fba9048959318b4b60c6bff49ab39d73580133128ce6ddbb10b216f6ba409"
+  },
+  {
+    "path": "04_Web/original.jpg",
+    "bytes": 324386,
+    "sha256": "9266cacf2f395a6afba36c6127080a21f6173460c6968df31d88a5b079745e00"
+  },
+  {
+    "path": "04_Web/studio.jpg",
+    "bytes": 276702,
+    "sha256": "b4cbef1aafb21a5c5b4d5c240063b31c8e1d9aa7802b0403950f4d213bdc63ab"
+  },
+  {
+    "path": "05_Source_Evidence/ARC3201_CameronHendey_Project3.zip",
+    "bytes": 2175792,
+    "sha256": "ac8d74be19789344b28cec2569e577a55cd23b34bf7223031bd51f0df7f79b90"
+  },
+  {
+    "path": "05_Source_Evidence/DifferentialGrowthModelOutput.3dm",
+    "bytes": 20369072,
+    "sha256": "72bf845e7e6504a13e486d1aecdb75ee39b830b1c03813ab93363216f439bfd4"
+  },
+  {
+    "path": "05_Source_Evidence/OriginalBaseCurveFlat_4WayView.png",
+    "bytes": 16469,
+    "sha256": "08eecbcc6bde7bda507419ba86175524be8cdfe1af505e51effce44b2f1db288"
+  },
+  {
+    "path": "05_Source_Evidence/OriginalBaseCurveProjected_4WayView.png",
+    "bytes": 19873,
+    "sha256": "8c4c7ae32fd29ebbeb9112559650efcf187bd79578a930454bcb053fbe7d8daf"
+  },
+  {
+    "path": "05_Source_Evidence/OriginalFormModel_4WayViews.png",
+    "bytes": 56102,
+    "sha256": "b88e4465d970929bbd9e6ac8d1e7d4161c347326b29d784c6d20985bf04a69c3"
+  },
+  {
+    "path": "05_Source_Evidence/Original_Growth_Recording.mp4",
+    "bytes": 15848867,
+    "sha256": "d1f26783cba1f82c2146c294156c22b759f3d8306e2af9b5b275e90f7c28f2f3"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5995,
+    "sha256": "b00533f08dee287ed0e8e09a34864dee1cab81c914d0ce53b83930c558f79609"
+  }
+]

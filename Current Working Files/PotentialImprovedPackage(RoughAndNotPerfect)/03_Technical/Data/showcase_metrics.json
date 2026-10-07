@@ -1,0 +1,18 @@
+{
+  "name": "Torqued crescent",
+  "mapping": "280 degree crescent; 38 degree height twist; flared radial loft",
+  "nodes": 14000,
+  "closed_growth_loops": 4,
+  "path_length_m": 198.45298692293295,
+  "bounds_centerline_m": [
+    4.133558513638653,
+    4.211689802705331,
+    2.911794807116865
+  ],
+  "strand_diameter_m": 0.016,
+  "frame_diameter_m": 0.046,
+  "segment_stretch_min": 1.1922089403509821,
+  "segment_stretch_max": 2.798362569036662,
+  "mesh_edge_incidence_two": true,
+  "limits": "Non-isometric remapping of focused benchmark. Openness, clearance and bend statistics from cylinder do not transfer. No structural, joint or full swept-mesh intersection certification."
+}

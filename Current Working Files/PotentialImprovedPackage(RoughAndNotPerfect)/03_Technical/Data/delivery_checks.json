@@ -1,0 +1,49 @@
+{
+  "uniform": {
+    "objects": 5,
+    "units": "UnitSystem.Meters",
+    "all_geometry_valid": true,
+    "layers": [
+      "Growth strand",
+      "Concept frame",
+      "Concept mounting ties - unengineered",
+      "Concept feet - stability unverified"
+    ]
+  },
+  "gradient": {
+    "objects": 5,
+    "units": "UnitSystem.Meters",
+    "all_geometry_valid": true,
+    "layers": [
+      "Growth strand",
+      "Concept frame",
+      "Concept mounting ties - unengineered",
+      "Concept feet - stability unverified"
+    ]
+  },
+  "focused": {
+    "objects": 5,
+    "units": "UnitSystem.Meters",
+    "all_geometry_valid": true,
+    "layers": [
+      "Growth strand",
+      "Concept frame",
+      "Concept mounting ties - unengineered",
+      "Concept feet - stability unverified"
+    ]
+  },
+  "Crescent": {
+    "objects": 5,
+    "units": "UnitSystem.Meters",
+    "all_geometry_valid": true,
+    "layers": [
+      "crescent_strand_0",
+      "crescent_strand_1",
+      "crescent_strand_2",
+      "crescent_strand_3",
+      "crescent_frame"
+    ]
+  },
+  "pdf_present": true,
+  "full_replay_exact": true
+}

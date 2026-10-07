@@ -1,0 +1,46 @@
+{
+  "unit_tests_passed": true,
+  "unit_tests_run": 7,
+  "test_log": "test_crossing_segments (tests.GeometryTests.test_crossing_segments) ... ok\ntest_cyclic_mesh (tests.GeometryTests.test_cyclic_mesh) ... ok\ntest_cylinder (tests.GeometryTests.test_cylinder) ... ok\ntest_field_bounds (tests.GeometryTests.test_field_bounds) ... ok\ntest_intrinsic_metric (tests.GeometryTests.test_intrinsic_metric) ... ok\ntest_parallel_segments (tests.GeometryTests.test_parallel_segments) ... ok\ntest_repeatability (tests.GeometryTests.test_repeatability) ... ok\n\n----------------------------------------------------------------------\nRan 7 tests in 0.084s\n\nOK\n",
+  "full_replay": {
+    "seed": 17,
+    "steps": 6500,
+    "runtime_seconds": 60.42861578999964,
+    "maximum_coordinate_difference_m": 0.0,
+    "array_equal": true
+  },
+  "seed_sensitivity": {
+    "seed": 29,
+    "steps": 6500,
+    "runtime_seconds": 31.402704819000064,
+    "metrics": {
+      "nodes": 3500,
+      "path_length_m": 30.048163809793877,
+      "front_open_fraction": 0.8774737945492662,
+      "view_zone_open_fraction": 0.867968,
+      "minimum_nonlocal_centerline_distance_m": 0.02012393893809701,
+      "clearance_violating_segment_pairs": 0,
+      "candidate_segment_pairs_checked": 59592,
+      "nonlocal_arc_exclusion_m": 0.05,
+      "centerline_simple_unrolled": true,
+      "max_surface_deviation_m": 2.220446049250313e-16,
+      "minimum_discrete_bend_radius_m": 0.005290138818641793,
+      "bend_radius_below_strand_radius_vertices": 0,
+      "median_discrete_bend_radius_m": 0.15086569430729818,
+      "closure": "cyclic indexed polyline",
+      "openness_method": "1 mm front-view stroke raster; 9 mm strand; frame excluded; 0.5 x 0.5 m central zone at z=1.16 m"
+    }
+  },
+  "environment": {
+    "python": "3.12.14",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.39"
+  },
+  "not_verified": [
+    "Kangaroo numerical equivalence",
+    "Native execution of repaired Grasshopper definition",
+    "Material and structural performance",
+    "Nozzle access and deposition sequence",
+    "Full swept-mesh self-intersection analysis",
+    "Frame and tie mechanical connections"
+  ]
+}
